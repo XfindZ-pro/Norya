@@ -41,5 +41,14 @@ All of your information is infrequently modified once stored. Your ID never chan
 
 You can modify limited information in the following ways:
 ➟ You can modify or delete your server's prefix using the prefix (new prefix) commands.
+
 ➟ Information that has been logged to a private channel cannot be modified, as it is sent to the channel by the bot and is final. We do not have a way to edit this information.
+
 ➟ Any other information stored is not modifiable by bot developers or the user.
+
+[06] **Exporting your information**
+If you would like to request your information be exported and provided to you, please contact us using one of the methods provided at the end of the privacy policy. Exporting your information does not delete or modify it.
+
+[07] **Deleting your information**
+If you would like to request your information be deleted, lease contact us using one of the methods provided at the end of the privacy policy. Deleting your information does not export it and provide it to you by default - please specify if you would like your information exported and provided to you.
+
