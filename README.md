@@ -52,3 +52,24 @@ If you would like to request your information be exported and provided to you, p
 [07] **Deleting your information**
 If you would like to request your information be deleted, lease contact us using one of the methods provided at the end of the privacy policy. Deleting your information does not export it and provide it to you by default - please specify if you would like your information exported and provided to you.
 
+[08] **Compliance**
+We ensure that our information policies, how we work with and handle your information, and how it is stored and collected complies with Discord's Terms of Services and Privacy Policy, as well as the Developer Terms of Services.
+If you have any concerns over our privacy policy or our handling of your information, please contact us using one of the methods provided at the end of the privacy policy.
+
+[09] **When or where this policy applies**
+Our privacy policy applies whenever you use our bot or associated services in any way. This policy then covers the information collected, how we use and handle it, and how you can manage it.
+
+It does not apply if you:
+➟ are using another bot or service that we do not own, manage or are associated with in any way, shape or form, unless described separately
+
+➟ are using the Discord platform on it's own, not using our bot.
+
+[10] **Contact Information**
+This privacy policy was written by Kang Dittyaa, and is maintained by the Shiba Tatsuya's development team. Contact information can be found below.
+
+Norya Development
+Discord: 
+XfindZ / owner&developer (471158299681619978)
+sanxzk / Head Administrator (760321952031703040)
+Email: Findzmanager12@gmail.com
+
